@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "jk",
+      "type": "com.mj.jk.common.prop.JkProperties",
+      "sourceType": "com.mj.jk.common.prop.JkProperties"
+    },
+    {
+      "name": "jk.cfg",
+      "type": "com.mj.jk.common.prop.JkProperties$Cfg",
+      "sourceType": "com.mj.jk.common.prop.JkProperties"
+    },
+    {
+      "name": "jk.properties",
+      "type": "com.mj.jk.common.prop.JkProperties",
+      "sourceType": "com.mj.jk.common.prop.JkProperties"
+    },
+    {
+      "name": "jk.upload",
+      "type": "com.mj.jk.common.prop.JkProperties$Upload",
+      "sourceType": "com.mj.jk.common.prop.JkProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
